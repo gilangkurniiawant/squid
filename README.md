@@ -22,12 +22,6 @@ sudo bash squid3-install.sh
 To create users, run
 
 ```
-squid-add-user
-```
-
-OR run following commands
-
-```
 sudo /usr/bin/htpasswd -b -c /etc/squid/passwd root root
 ```
 
