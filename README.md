@@ -34,7 +34,7 @@ OR run following commands
 sudo /usr/bin/htpasswd -b -c /etc/squid/passwd root root
 ```
 
-# Change Squid https
+Change Squid https
 ```
 wget -O /etc/squid/squid.conf https://raw.githubusercontent.com/gilangkurniiawant/squid/master/squid.conf  /etc/squid
 ```
