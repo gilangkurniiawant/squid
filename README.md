@@ -31,16 +31,8 @@ squid-add-user
 OR run following commands
 
 ```
-sudo /usr/bin/htpasswd -b -c /etc/squid/passwd USERNAME_HERE PASSWORD_HERE
+sudo /usr/bin/htpasswd -b -c /etc/squid/passwd root root
 ```
-
-To update password for am existing user, run
-
-```
-sudo /usr/bin/htpasswd /etc/squid/passwd USERNAME_HERE
-```
-
-replace USERNAME_HERE and PASSWORD_HERE with your desired user name and password.
 
 Reload squid proxy
 
