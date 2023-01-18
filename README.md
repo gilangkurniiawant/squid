@@ -18,9 +18,6 @@ wget https://raw.githubusercontent.com/serverok/squid-proxy-installer/master/squ
 sudo bash squid3-install.sh
 ```
 
-## How to install Squid Proxy Server.
-
-# Create Users
 
 To create users, run
 
