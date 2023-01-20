@@ -1,6 +1,5 @@
 # Squid Proxy Installer
 
-https://serverok.in/squid
 
 Auto install Squid 3 proxy on following linux OS.
 
